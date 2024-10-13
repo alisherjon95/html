@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+.navbar-main {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding: 20px;
+}
+.left-bar {
+  display: flex;
+  flex: 1;
+  color: #054c73;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: Montserrat;
+  padding-left: 20px;
+}
+.riht-bar {
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+}
